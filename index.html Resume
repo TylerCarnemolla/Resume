@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tyler Carnemolla Resume</title>
+</head>
+
+<body>
+<h1>Tyler Carnemolla</h1>
+<h2>Summary</h2>
+<p>
+    I am a reliable and self starting worker who is looking to begin a career in software and web development.
+    Although my education and prior work experience are not related to coding, I am a prime canidate to be molded into an asset.
+    Over my years in the workforce I have learned the importance of accountability, accuracy, and work integrity.
+</p>
+<hr/>
+<h2> Education </h2>
+    <ul>
+        Bachelors of Science Criminal Justice and Criminology - Arizona State University (2018-2020),Online.
+    </ul>
+<hr/>
+<h2>Work experience</h2>
+    <ul>
+        <li><h3>Immersion Brewing</h3></li>
+            <h4>Senior Floor Manager</h4>
+                <h5>July 2016-Present</h5>
+                <ul>
+                    <li>Screened and hired new employees</li>
+                    <li>customer service is administered swiftly and well</li> 
+                    <li>Screen applicants, hire, train, and conduct performance reviews</li>
+                    <li>Record daily sales and monitor business finances</li>
+                    <li>Resolve disputes</li>
+                    <li>Exercise discretion regularly</li>
+                    <li>Build strong relationships among the staff</li>
+                    <li>Monitor the diffrent components of the resturant simultaniously</li>
+                </ul>
+        <li><h3>The Greenhouse Cafe</h3></li>
+                <h4>Server</h4>
+                    <h5>May 2015-May 2016</h5>
+                    <ul>
+                        <li>Maintained clean work facicities</li>
+                        <li>Trained new staff and monitored their performance</li>
+                        <li>Ensure guests were served accuratly and promptly</li>
+                        <li>Coordinate effort between the diffrent componenets of resturant</li>
+                    </ul>
+        <li><h3>Jade Creek Arabians</h3></li>  
+                <h4>Ranch Hand</h4>
+                    <h5>May 2014-May 2015</h5>
+                    <ul>
+                        <li>Cleaned stalls and pastures</li>
+                        <li>Transported heavy equipment and horses</li>
+                    </ul>
+    </ul>
+<hr/>
+<h2>Skills</h2>
+    <ul>
+        <li>Time managemet</li>
+        <li>Staff managemet</li>
+        <li>Project managment</li>
+        <li>Mutlitasking</li>
+        <li>Interpersonal communication</li>
+        <li>Problem solving</li>
+    </ul>
+<hr/>
+<a/ href=".//4.1 Webpages/public/contact.html">Contact me</a>
+
+</body>
+<footer><span>&copy</span> Tyler Carnemolla. All Rights Reserved.</footer>
+</html>
